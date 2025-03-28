@@ -16,7 +16,7 @@
 
 ## Artifact: C++ Binary Search Tree (BST) CSV Parser
 - This artifact was created for my Data Structures and Algorithms class. The code created by me in this program is focused on the BST data structure and includes the constructor, destructor, the pre/in/post-order traversals, the insertion methods, deletion methods, and search methods, totalling to approximately 150 original LOC.
-### Enhancement 1 - Software Engineering - Refactor to Python
+### Enhancement 1 - Software Design & Engineering - Refactor to Python
 - I refactored the program from C++ to Python. The original program was approximately 1000 LOC and the refactored Python program had approximately 250 LOC with equivalent functionality and faster runtimes, and was further modularized to enhance readability.
 ### Enhancement 2 - Data Structures & Algorithms - Refactor to Red-Black Tree (RBT)
 - I refactored the program from a BST to a self-balancing RBT. This data structure improves the worst-case time complexity for search, insertion, and deletion functions in a tree from O(n) for a BST to O(log n) for the RBT, with little to no drawbacks.
