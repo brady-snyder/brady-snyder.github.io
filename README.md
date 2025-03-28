@@ -1,4 +1,4 @@
-# Brady Snyder
+# Brady Snyder, CAPM
 ## Imagineer | Data Analyst | Industrial Engineer
 
 ## Work Experience
@@ -12,6 +12,7 @@
 - MS Industrial Engineering from University of Central Florida. expected 2027
 - BS Computer Science, Minor in Applied Mathematics, Concentration in Data Analysis, from Southern New Hampshire University, *summa cum laude*, expected May 2025
 - BS Entertainment Management, Certificate in Theme Park & Attraction Management, from University of Central Florida, *summa cum laude*, May 2023
+- Certified Associate in Project Management (CAPM), Project Management Institute
 
 ## Artifact: C++ Binary Search Tree (BST) CSV Parser
 ### Description
