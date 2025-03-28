@@ -15,7 +15,6 @@
 - Certified Associate in Project Management (CAPM), Project Management Institute
 
 ## Artifact: C++ Binary Search Tree (BST) CSV Parser
-### Description
 - This artifact was created for my Data Structures and Algorithms class. The code created by me in this program is focused on the BST data structure and includes the constructor, destructor, the pre/in/post-order traversals, the insertion methods, deletion methods, and search methods, totalling to approximately 150 original LOC.
 ### Enhancement 1 - Software Engineering - Refactor to Python
 - I refactored the program from C++ to Python. The original program was approximately 1000 LOC and the refactored Python program had approximately 250 LOC with equivalent functionality and faster runtimes, and was further modularized to enhance readability.
