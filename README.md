@@ -1,5 +1,6 @@
 # Brady Snyder, CAPM
 ## Imagineer | Data Analyst | Industrial Engineer
+## https://www.linkedin.com/in/bradysnyder879/
 
 ## Work Experience
 - Strategic Sourcing Specialist at Walt Disney Imagineering, March 2025 - Present
