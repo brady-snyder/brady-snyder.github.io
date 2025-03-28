@@ -22,5 +22,5 @@
 - Description
 
 ## Code Review:
-### Click to watch on YouTube
+### Click thumbnail to watch on YouTube
 [![Code Review](https://img.youtube.com/vi/FSAkcbkLB3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=FSAkcbkLB3A)
