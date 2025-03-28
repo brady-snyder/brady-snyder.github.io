@@ -6,7 +6,7 @@
 - Strategic Sourcing Intern at Walt Disney Imagineering, June 2024 - March 2025
 - Entertainment Project Analyst Intern at Disney Live Entertainment, January 2023 - January 2024
 - Transit Operations Analytics Intern at Universal Orlando Resort, August 2022 - December 2022
-- Miscellaneous Operational Experience at Walt Disney World and SeaWorld Orlando, Intermittently from August 2021 - June 2024
+- Misc. Operational Experience at Walt Disney World and SeaWorld Orlando, August 2021 - June 2024
 
 ## Education
 - MS Industrial Engineering from University of Central Florida. expected 2027
