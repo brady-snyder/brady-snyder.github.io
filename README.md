@@ -15,6 +15,7 @@ During my fourteen months at Southern New Hampshire University, I've taken seven
 - Learned more advanced math and statistics, which have improved my logical and critical thinking skills drastically;
 - Solved puzzles in Data Structures & Algorithms, which introduced new methods of problem solving; and
 - Taken full-stack development, where I was able to create an entire web application.
+
 Through my work on dozens of projects, I was able to focus on different areas ranging from software security, databases, client-server development, and even some data analysis classes to hone my existing skillset and focus on how to apply my learnings to a business environment, such as collaboraiting with teams and communicating with stakeholders.
 
 My portfolio focuses on my...
