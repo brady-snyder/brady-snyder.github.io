@@ -1,6 +1,6 @@
 # Brady Snyder, CAPM
 ## Imagineer | Data Analyst | Industrial Engineer
-## [LinkedIn](www.linkedin.com/in/bradysnyder879/)
+## [LinkedIn](https://linkedin.com/in/bradysnyder879/)
 
 ## Introduction
 Hello! My name is Brady, and I am a young professional dedicated to continuously improving and growing my professional and creative skillsets. I am a soon-to-be graduate of Southern New Hampshire University, studying Computer Science, Data Analysis, and Applied Mathematics. I am an incoming graduate student at the University of Central Florida, studying Industrial Engineering. Lastly, I am a full-time Imagineer at Walt Disney Imagineering, where I specialize in facilitating and administering the process of bidding, selecting, and contracting out work packages to vendors in the themed entertainment and construction industries.
