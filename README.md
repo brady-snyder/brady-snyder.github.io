@@ -18,9 +18,9 @@
 Hello! My name is Brady, and I am a young professional dedicated to continuously improving and growing my professional and creative skillsets. 
 - I am a soon-to-be graduate of Southern New Hampshire University, studying Computer Science, Data Analysis, and Applied Mathematics.
 - I am an incoming graduate student at the University of Central Florida, studying Industrial Engineering.
-- I am a full-time Imagineer at Walt Disney Imagineering, where I specialize in facilitating and administering the process of bidding, selecting, and contracting out work packages to vendors in the themed entertainment and construction industries.
+- I am a full-time Imagineer at Walt Disney Imagineering, where I specialize in facilitating and administering the process of bidding, selecting, and contracting work packages to vendors in the themed entertainment and construction industries.
 
-Ever since I was a kid, I have been fascinated and excellent with numbers. During my pre-college years, I avoided specializing in STEM since it seemed to be a field saturated with talent, but after having the opportunity to dive into the world of business through my work in Theme Parks and my completion of a Bachelors in Entertainment Mangement, it was clear that my talent for numbers could be incredibly valuable. Through internships focusing on Data Analytics at Universal Orlando Resort and Disney Live Entertainment, I quickly learned and then reached the limits of what Excel and Power BI could do for me, and I wanted to expand my skill set into more advanced tools, most of which involved some form of programming. One Bachelor's in Computer Science later, and I'm ready to take on the bigger and better challenge of a Master's in Industrial Engineering, and see just how far I can go with my passion for data analysis, process improvement, and problem-solving.
+Ever since I was a kid, I have been fascinated and excellent with numbers. During my pre-college years, I avoided specializing in STEM since it seemed to be a field saturated with talent, but after having the opportunity to dive into the world of business through my work in Theme Parks and my completion of a Bachelors in Entertainment Management, it was clear that my talent for numbers could be incredibly valuable. Through internships focusing on Data Analytics at Universal Orlando Resort and Disney Live Entertainment, I quickly learned and then reached the limits of what Excel and Power BI could do for me, and I wanted to expand my skill set into more advanced tools, most of which involved some form of programming. One Bachelor's in Computer Science later, and I'm ready to take on the bigger and better challenge of a Master's in Industrial Engineering and see just how far I can go with my passion for data analysis, process improvement, and problem-solving.
 
 During my fourteen months at Southern New Hampshire University, I've taken seventeen classes while working full-time for most of my studies (remember, a typical full-time college student only takes ten classes a year!). Through this rigorous program, I've...
 - Been introduced to dozens of tools such as Python, SQL, Java, C++, R, half a dozen IDEs, MATLAB, LaTeX, Jupyter Notebook, and more.
@@ -28,14 +28,14 @@ During my fourteen months at Southern New Hampshire University, I've taken seven
 - Solved puzzles in Data Structures & Algorithms, which introduced new methods of problem solving.
 - Taken full-stack development, where I was able to create an entire web application.
 
-Through my work on dozens of projects, I was able to focus on different areas ranging from software security, databases, client-server development, and even some data analysis classes to hone my existing skillset and focus on how to apply my learnings to a business environment, such as collaboraiting with teams and communicating with stakeholders.
+Through my work on dozens of projects, I was able to focus on different areas ranging from software security, databases, client-server development, and even some data analysis classes to hone my existing skillset and focus on how to apply my learnings to a business environment, such as collaborating with teams and communicating with stakeholders.
 
 My portfolio focuses on my...
 - Programming/software engineering skills.
 - Knowledge of data structures and algorithms.
 - Ability to create databases and dashboards.
   
-I hope my portfolio serves as a first impression of the quality of work I strive to provide, and sheds some light on the value I can bring to an organization. 
+I hope my portfolio serves as a first impression of the quality of work I strive to provide and sheds some light on the value I can bring to an organization. 
 
 # Artifact: C++ Binary Search Tree (BST) CSV Parser
 - This program is written in C++ and parses a CSV file, stores it in a binary search tree, and then performs functions such as reading, searching, and deleting items in the tree. This was created for our Data Structures and Algorithms class at Southern New Hampshire University.
