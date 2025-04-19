@@ -1,6 +1,6 @@
 # Brady Snyder, CAPM
 ## Imagineer | Data Analyst | Industrial Engineer
-## www.linkedin.com/in/bradysnyder879/
+## [LinkedIn](www.linkedin.com/in/bradysnyder879/)
 
 ## Introduction
 Hello! My name is Brady, and I am a young professional dedicated to continuously improving and growing my professional and creative skillsets. I am a soon-to-be graduate of Southern New Hampshire University, studying Computer Science, Data Analysis, and Applied Mathematics. I am an incoming graduate student at the University of Central Florida, studying Industrial Engineering. Lastly, I am a full-time Imagineer at Walt Disney Imagineering, where I specialize in facilitating and administering the process of bidding, selecting, and contracting out work packages to vendors in the themed entertainment and construction industries.
@@ -35,7 +35,7 @@ My portfolio focuses on my programming/software engineering skills, my knowledge
 ### Enhancement 3 - Databases - SQLite-linked Dashboard with Access Control
 - I started from scratch and parsed the CSV file to a SQLite database, and then linekd the database to a Streamlit Dashboard which includes an implementation of access control.
 - While the programming of this dashboard was new to me, it quickly became intuitive and allowed me to flex my muscles in data analysis and reporting, a skillset very familiar to me, but an area in which most of my best work is under NDA.
-- [Access the dashboard here!]([url](https://brsportfoliodash.streamlit.app/)) (Don't be afraid to wake it up!) 
+- [Access the dashboard here!](https://brsportfoliodash.streamlit.app/) (Don't be afraid to wake it up!) 
 
 ## Code Review:
 ### Click thumbnail to watch on YouTube
