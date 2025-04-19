@@ -48,9 +48,8 @@ I hope my portfolio serves as a first impression of the quality of work I strive
 ### Enhancement 2 - Data Structures & Algorithms - Refactor to Red-Black Tree (RBT)
 - I refactored the program from a BST to a self-balancing RBT. This data structure improves the worst-case time complexity for search, insertion, and deletion functions in a tree from O(n) for the BST to O(log n) for the RBT, with little to no drawbacks.
 - This was a tricky enhancement, as I ultimately had to refactor almost all my existing code to remove any recursive calls, but I'm incredibly satisfied by how it turned out, and it shows the power of clear organization and outlines in programming.
-
-![Dashboard Screenshot](https://i.imgur.com/wME3Ozi.png)
 ### Enhancement 3 - Databases - SQLite-linked Dashboard with Access Control
+![Dashboard Screenshot](https://i.imgur.com/wME3Ozi.png)
 - I started from scratch and parsed the CSV file to a SQLite database, and then linekd the database to a Streamlit Dashboard which includes an implementation of access control.
 - While the programming of this dashboard was new to me, it quickly became intuitive and allowed me to flex my muscles in data analysis and reporting, a skillset very familiar to me, but an area in which most of my best work is under NDA.
 - [Access the dashboard here!](https://brsportfoliodash.streamlit.app/) (Don't be afraid to wake it up!) 
