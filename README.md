@@ -1,6 +1,9 @@
 # Imagineer | Data Analyst | Industrial Engineer
 # [LinkedIn](https://linkedin.com/in/bradysnyder879/)
 
+# Introduction
+Hello! My name is Brady, and I am a young professional dedicated to continuously improving and growing my professional and creative skillsets. This portfolio is focused on my computer science/programming skillset, but I've developed an enhancecd
+
 # Work Experience
 - Strategic Sourcing Specialist at Walt Disney Imagineering, March 2025 - Present
 - Strategic Sourcing Intern at Walt Disney Imagineering, June 2024 - March 2025
@@ -14,10 +17,8 @@
 - BS Entertainment Management, Certificate in Theme Park & Attraction Management, from the University of Central Florida, *summa cum laude*, May 2023
 - Certified Associate in Project Management (CAPM), Project Management Institute (PMI), Nov 2023 - Nov 2026
 
-# Introduction
-Hello! My name is Brady, and I am a young professional dedicated to continuously improving and growing my professional and creative skillsets. 
-- I am a soon-to-be graduate of Southern New Hampshire University, studying Computer Science, Data Analysis, and Applied Mathematics.
-- I am an incoming graduate student at the University of Central Florida, studying Industrial Engineering.
+
+
 - I am a full-time Imagineer at Walt Disney Imagineering, where I specialize in facilitating and administering the process of bidding, selecting, and contracting work packages to vendors in the themed entertainment and construction industries.
 
 Ever since I was a kid, I have been fascinated and excellent with numbers. During my pre-college years, I avoided specializing in STEM since it seemed to be a field saturated with talent, but after having the opportunity to dive into the world of business through my work in Theme Parks and my completion of a Bachelors in Entertainment Management, it was clear that my talent for numbers could be incredibly valuable. Through internships focusing on Data Analytics at Universal Orlando Resort and Disney Live Entertainment, I quickly learned and then reached the limits of what Excel and Power BI could do for me, and I wanted to expand my skill set into more advanced tools, most of which involved some form of programming. One Bachelor's in Computer Science later, and I'm ready to take on the bigger and better challenge of a Master's in Industrial Engineering and see just how far I can go with my passion for data analysis, process improvement, and problem-solving.
@@ -52,7 +53,3 @@ I hope my portfolio serves as a first impression of the quality of work I strive
 - I started from scratch and parsed the CSV file to a SQLite database, and then linekd the database to a Streamlit Dashboard which includes an implementation of access control.
 - While the programming of this dashboard was new to me, it quickly became intuitive and allowed me to flex my muscles in data analysis and reporting, a skillset very familiar to me, but an area in which most of my best work is under NDA.
 - [Access the dashboard here!](https://brsportfoliodash.streamlit.app/) (Don't be afraid to wake it up!) 
-
-# Code Review:
-## Click thumbnail to watch on YouTube
-[![Code Review](https://img.youtube.com/vi/FSAkcbkLB3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=FSAkcbkLB3A)
